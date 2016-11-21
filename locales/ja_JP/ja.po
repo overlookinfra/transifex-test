@@ -21,16 +21,16 @@ msgstr ""
 
 #: src/puppetlabs/pe_console_middleware/rbac/groups.clj
 msgid "Not authorized to delete group {0} changed"
-msgstr ""
+msgstr "りんご {0}"
 
 #: src/puppetlabs/pe_console_middleware/rbac/groups.clj
 msgid "Group id {0} not found"
-msgstr ""
+msgstr "なし {0}"
 
 #: src/puppetlabs/pe_console_middleware/rbac/groups.clj
 msgid "Group id {0} not found yet"
-msgstr ""
+msgstr "柿 {0}"
 
 #: src/puppetlabs/pe_console_middleware/rbac/groups.clj
 msgid "Group id {0} not found yet as yet"
-msgstr ""
+msgstr "バナナ {0}"
