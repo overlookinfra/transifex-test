@@ -31,6 +31,6 @@ msgstr ""
 msgid "Group id {0} not found yet"
 msgstr ""
 
-#: src/puppetlabs/pe_console_middleware/rbac/groups.clj:24
+#: src/puppetlabs/pe_console_middleware/rbac/groups.clj
 msgid "Group id {0} not found yet as yet"
-msgstr "m"
+msgstr ""
