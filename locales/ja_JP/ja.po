@@ -30,3 +30,7 @@ msgstr "フィづ"
 #: src/puppetlabs/pe_console_middleware/rbac/groups.clj
 msgid "Group id {0} not found yet"
 msgstr "をた"
+
+#: src/puppetlabs/pe_console_middleware/rbac/groups.clj
+msgid "Group id {0} not found yet as yet"
+msgstr ""
