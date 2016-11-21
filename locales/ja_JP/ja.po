@@ -22,48 +22,13 @@ msgstr ""
 
 #: src/puppetlabs/pe_console_middleware/rbac/groups.clj
 msgid "Not authorized to delete group {0} changed"
-msgstr "te"
+msgstr ""
 
 #: src/puppetlabs/pe_console_middleware/rbac/groups.clj
 msgid "Group id {0} not found"
-msgstr "t"
+msgstr ""
 
 #: src/puppetlabs/pe_console_middleware/rbac/groups.clj
 msgid "Group id {0} not found yet"
-msgstr "t"
+msgstr ""
 
-#: src/puppetlabs/pe_console_middleware/rbac/groups.clj
-msgid "Group id {0} not found yet so fix it!"
-msgstr "re"
-
-#: src/puppetlabs/pe_console_middleware/rbac/groups.clj
-msgid "Group id 4 not found yet so fix it!"
-msgstr "we"
-
-#: src/puppetlabs/pe_console_middleware/rbac/groups.clj
-msgid "Group id 5 not found yet so fix it!"
-msgstr "weer"
-
-#: src/puppetlabs/pe_console_middleware/rbac/groups.clj
-msgid "Group id 6 not found yet so fix it!"
-msgstr "wee"
-
-#: src/puppetlabs/pe_console_middleware/rbac/groups.clj
-msgid "Group id 7 not found yet so fix it!"
-msgstr "wet"
-
-#: src/puppetlabs/pe_console_middleware/rbac/groups.clj
-msgid "Group id 8 not found yet so fix it!"
-msgstr "weed"
-
-#: src/puppetlabs/pe_console_middleware/rbac/groups.clj
-msgid "Group id 9 not found yet so fix it!"
-msgstr "wes"
-
-#: src/puppetlabs/pe_console_middleware/rbac/groups.clj
-msgid "Group id 10 not found yet so fix it!"
-msgstr "wesd"
-
-#: src/puppetlabs/pe_console_middleware/rbac/groups.clj
-msgid "Group id 11 not found yet so fix it!"
-msgstr "wewe"
