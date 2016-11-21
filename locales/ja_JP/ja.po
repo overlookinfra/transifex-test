@@ -21,12 +21,12 @@ msgstr ""
 
 #: src/puppetlabs/pe_console_middleware/rbac/groups.clj
 msgid "Not authorized to delete group {0} changed"
-msgstr "かき"
+msgstr "かき　ぢ"
 
 #: src/puppetlabs/pe_console_middleware/rbac/groups.clj
 msgid "Group id {0} not found"
-msgstr "さし"
+msgstr "さし　は"
 
 #: src/puppetlabs/pe_console_middleware/rbac/groups.clj
 msgid "Group id {0} not found yet"
-msgstr "たち"
+msgstr "たち　ヴェ"
