@@ -4,15 +4,15 @@
 # Emily Smitley <emily.smitley@puppet.com>, 2016.
 # 
 # Translators:
-# LarissaLane <larissa@puppet.com>, 2016
 # Puppet_API <localization@puppet.com>, 2016
+# LarissaLane <larissa@puppet.com>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: puppetlabs.pe_console_ui\n"
 "Report-Msgid-Bugs-To: docs@puppet.com\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2016-09-19 10:31-0700\n"
-"Last-Translator: Puppet_API <localization@puppet.com>, 2016\n"
+"Last-Translator: LarissaLane <larissa@puppet.com>, 2016\n"
 "Language-Team: Japanese (Japan) (https://www.transifex.com/puppet/teams/67270/ja_JP/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -22,48 +22,48 @@ msgstr ""
 
 #: src/puppetlabs/pe_console_middleware/rbac/groups.clj
 msgid "Not authorized(branch test) to delete group {0}"
-msgstr "testing"
+msgstr "te"
 
 #: src/puppetlabs/pe_console_middleware/rbac/groups.clj
 msgid "Group id {0} not found"
-msgstr "test 2 {0} "
+msgstr "t"
 
 #: src/puppetlabs/pe_console_middleware/rbac/groups.clj
 msgid "Group id {0} not found yet"
-msgstr "test 2 {0} "
+msgstr "t"
 
 #: src/puppetlabs/pe_console_middleware/rbac/groups.clj
 msgid "Group id {0} not found yet so fix it!"
-msgstr "test 3 {0} "
+msgstr "re"
 
 #: src/puppetlabs/pe_console_middleware/rbac/groups.clj
 msgid "Group id 4 not found yet so fix it!"
-msgstr "test 4 {0} "
+msgstr "we"
 
 #: src/puppetlabs/pe_console_middleware/rbac/groups.clj
 msgid "Group id 5 not found yet so fix it!"
-msgstr "test 4 {0} "
+msgstr "weer"
 
 #: src/puppetlabs/pe_console_middleware/rbac/groups.clj
 msgid "Group id 6 not found yet so fix it!"
-msgstr "test 4 {0} "
+msgstr "wee"
 
 #: src/puppetlabs/pe_console_middleware/rbac/groups.clj
 msgid "Group id 7 not found yet so fix it!"
-msgstr "test 4 {0} "
+msgstr "wet"
 
 #: src/puppetlabs/pe_console_middleware/rbac/groups.clj
 msgid "Group id 8 not found yet so fix it!"
-msgstr "test 4 {0} "
+msgstr "weed"
 
 #: src/puppetlabs/pe_console_middleware/rbac/groups.clj
 msgid "Group id 9 not found yet so fix it!"
-msgstr "test 4 {0} "
+msgstr "wes"
 
 #: src/puppetlabs/pe_console_middleware/rbac/groups.clj
 msgid "Group id 10 not found yet so fix it!"
-msgstr "test 4 {0} "
+msgstr "wesd"
 
 #: src/puppetlabs/pe_console_middleware/rbac/groups.clj
 msgid "Group id 11 not found yet so fix it!"
-msgstr "test 4 {0} "
+msgstr "wewe"
