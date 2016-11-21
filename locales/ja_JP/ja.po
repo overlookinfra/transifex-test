@@ -35,3 +35,7 @@ msgstr "test 2 {0} "
 #: src/puppetlabs/pe_console_middleware/rbac/groups.clj
 msgid "Group id {0} not found yet so fix it!"
 msgstr "test 3 {0} "
+
+#: src/puppetlabs/pe_console_middleware/rbac/groups.clj
+msgid "Group id 4 not found yet so fix it!"
+msgstr "test 4 {0} "
