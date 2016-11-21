@@ -32,5 +32,5 @@ msgid "Group id {0} not found yet"
 msgstr "バナナ  {0}"
 
 #: src/puppetlabs/pe_console_middleware/rbac/groups.clj
-msgid "Group id {0} found already"
+msgid "Group id {0} found already testing"
 msgstr "梅 {0}"
