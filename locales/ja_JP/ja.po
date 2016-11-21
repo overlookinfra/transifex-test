@@ -4,7 +4,6 @@
 # Emily Smitley <emily.smitley@puppet.com>, 2016.
 # 
 # Translators:
-# Puppet_API <localization@puppet.com>, 2016
 # LarissaLane <larissa@puppet.com>, 2016
 msgid ""
 msgstr ""
@@ -22,13 +21,12 @@ msgstr ""
 
 #: src/puppetlabs/pe_console_middleware/rbac/groups.clj
 msgid "Not authorized to delete group {0} changed"
-msgstr ""
+msgstr "かき"
 
 #: src/puppetlabs/pe_console_middleware/rbac/groups.clj
 msgid "Group id {0} not found"
-msgstr ""
+msgstr "さし"
 
 #: src/puppetlabs/pe_console_middleware/rbac/groups.clj
 msgid "Group id {0} not found yet"
-msgstr ""
-
+msgstr "たち"
