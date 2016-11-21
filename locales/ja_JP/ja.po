@@ -25,7 +25,7 @@ msgstr "かき　ぢ　フィ"
 
 #: src/puppetlabs/pe_console_middleware/rbac/groups.clj
 msgid "Group id {0} not found"
-msgstr "さし　は　ぶ"
+msgstr "さし　は　ぶ   ほ"
 
 #: src/puppetlabs/pe_console_middleware/rbac/groups.clj
 msgid "Group id {0} not found yet"
