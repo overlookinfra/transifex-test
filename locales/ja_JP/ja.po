@@ -29,4 +29,4 @@ msgstr "さし　は　ぶ   ほ"
 
 #: src/puppetlabs/pe_console_middleware/rbac/groups.clj
 msgid "Group id {0} not found yet"
-msgstr "たち　ヴェ　ジェ"
+msgstr "たち　ヴェ　ジェ さ"
