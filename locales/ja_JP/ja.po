@@ -21,7 +21,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: src/puppetlabs/pe_console_middleware/rbac/groups.clj
-msgid "Not authorized(branch test) to delete group {0}"
+msgid "Not authorized to delete group {0} changed"
 msgstr "te"
 
 #: src/puppetlabs/pe_console_middleware/rbac/groups.clj
