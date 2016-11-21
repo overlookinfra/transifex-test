@@ -34,3 +34,7 @@ msgstr "柿 {0}"
 #: src/puppetlabs/pe_console_middleware/rbac/groups.clj
 msgid "Group id {0} found already"
 msgstr "バナナ {0}"
+
+#: src/puppetlabs/pe_console_middleware/rbac/groups.clj
+msgid "Group id {0} really not found already"
+msgstr ""
