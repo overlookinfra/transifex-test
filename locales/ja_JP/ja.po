@@ -19,8 +19,8 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: src/puppetlabs/pe_console_middleware/rbac/groups.clj
-msgid "Not authorized to delete group {0} testing"
-msgstr "りんご"
+msgid "Not authorized to delete group {0}"
+msgstr "りんご {0}"
 
 #: src/puppetlabs/pe_console_middleware/rbac/groups.clj
 msgid "Group id {0} not found"
