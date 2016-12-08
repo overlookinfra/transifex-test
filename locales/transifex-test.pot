@@ -7,6 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: puppetlabs.pe_console_ui \n"
+"X-Git-Ref: 02f2f712ca09ce0348817a0bb968b8ac3375e9da\n"
 "Report-Msgid-Bugs-To: docs@puppet.com\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2016-09-06 13:57-0700\n"
