@@ -11,17 +11,18 @@ msgstr ""
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2016-09-06 13:57-0700\n"
 "Last-Translator: LarissaLane <larissa@puppet.com>, 2016\n"
-"Language-Team: Japanese (Japan) (https://www.transifex.com/puppet/teams/67270/ja_JP/)\n"
+"Language-Team: Japanese (Japan) (https://www.transifex.com/puppet/teams/59186/ja_JP/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: ja_JP\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Git-Ref: 02f2f712ca09ce0348817a0bb968b8ac3375e9da\n"
 
 #: src/puppetlabs/pe_console_middleware/rbac/groups.clj
-msgid "Not authorized to delete group {0}"
-msgstr "りんご {0}"
+msgid "Test two repos to one project 2 - Not authorized to delete group {0}"
+msgstr "Test two repos to one project 2 - Not authorized to delete group {0}"
 
 #: src/puppetlabs/pe_console_middleware/rbac/groups.clj
 msgid "Group id {0} not found"
-msgstr "なし {0}"
+msgstr "Group id {0} not found"
