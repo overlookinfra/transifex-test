@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: src/puppetlabs/pe_console_middleware/rbac/groups.clj
-msgid "Test two repos to one project 2 - Not authorized to delete group {0}"
+msgid "Test two repos to one project THU - Not authorized to delete group {0}"
 msgstr ""
 
 #: src/puppetlabs/pe_console_middleware/rbac/groups.clj
