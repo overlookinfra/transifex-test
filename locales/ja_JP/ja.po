@@ -20,8 +20,10 @@ msgstr ""
 "X-Git-Ref: 02f2f712ca09ce0348817a0bb968b8ac3375e9da\n"
 
 #: src/puppetlabs/pe_console_middleware/rbac/groups.clj
-msgid "Test two repos to one project 2 - Not authorized to delete group {0}"
-msgstr "Test two repos to one project 2 - Not authorized to delete group {0}"
+msgid ""
+"Test PO target repo using full URL - Not authorized to delete group {0}"
+msgstr ""
+"Test PO target repo using full URL - Not authorized to delete group {0}"
 
 #: src/puppetlabs/pe_console_middleware/rbac/groups.clj
 msgid "Group id {0} not found"
